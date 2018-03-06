@@ -1,5 +1,5 @@
 {
-    "name": "alct/noapi",
+    "name": "cmal/noapi",
     "description": "Get structured information out of online services.",
     "homepage": "https://github.com/alct/noapi",
     "keywords": ["parser", "twitter"],
